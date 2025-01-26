@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @N-droid-netizen , a front-end web developer whose interests span beyond web development.
+- 👋 Hi, I’m @N-droid-netizen , a back end web developer whose interests span beyond web development.
+Also, this is a back up account as my main one was suspended 😭 I'm still working on it 🤝
 - 👀 I’m interested in learning Machine learning as it is encompassing many fields outside tech and offers a better solution to certain problems than existing methods
 -  
-- 🌱 I’m currently learning Python with a view to using it for machine learning
+- 🌱 I’m an avid Pythonista with a view to using it for machine learning
 - 📫 How to reach me:
 - Instagram: @nganga_.kamau
 - 😄 Pronouns: He/Him
