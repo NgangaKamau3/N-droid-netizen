@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N-droid-netizen , a back end web developer whose interests span beyond web development.
+- 👋 Hi, I’m Nganga Kamau, a back end web developer whose interests span beyond web development.
 Also, this is a back up account as my main one was suspended 😭 I'm still working on it 🤝
 - 👀 I’m interested in learning Machine learning as it is encompassing many fields outside tech and offers a better solution to certain problems than existing methods
 -  
